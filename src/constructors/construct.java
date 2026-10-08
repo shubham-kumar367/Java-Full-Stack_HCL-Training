@@ -1,8 +1,8 @@
 package constructors;
 
 public class construct {
-    construct(){
-        System.out.println("Hello");
+     construct(){
+        System.out.println("Hello, This is constructor");
     }
     void show() {
         System.out.println("Hii");

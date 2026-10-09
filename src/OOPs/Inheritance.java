@@ -15,7 +15,9 @@ public class Inheritance extends Animal {
 
     public static void main(String[] args) {
         Inheritance obj = new Inheritance();
+        Animal a = new Animal();
 
         obj.sound();
+        a.sound();
     }
 }
